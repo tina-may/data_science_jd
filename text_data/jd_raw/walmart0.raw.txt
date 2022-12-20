@@ -1,0 +1,77 @@
+
+What you'll do...
+The Cortex team is the core A.I. platform powering the vision of delivering the world's best intelligent personal assistants to Walmart's customers, accessible via natural voice commands, text messages, rich UI interactions, and a mix of all of the above via multi-modal experiences.
+
+We believe /conversations/ are a natural and powerful user interface for interacting with technology and enable a richer customer experiences -- both online and in-store. We are building and designing the next generation of Natural Language Understanding (NLU) services that other teams can easily integrate and leverage, and build rich experiences: from pure voice and text shopping assistants (Siri, Google Assistant,etc.), to customer care channels, to mobile apps with rich, intertwined, multi-modal interaction modes.
+
+Interested in diving in?
+
+We need passionate and seasoned NLU data-scientists to help us improve and evolve our capabilities, taking into account the full conversational context, multi-modal interactions, and an ever increasing list of use cases.
+
+Come at the right time, and you will have an enormous opportunity to make a massive impact on the design, architecture, and implementation of an innovative, mission critical product, driven by data-science, used every day, by people you know, and which customers love.
+
+As part of the emerging tech group, you will also have the additional opportunity of building demos, proof of concepts, creating white papers, writing blogs, etc.
+
+Here are some of our team publications:
+
+- "Building a conversational assistant platform for voice-enabled
+
+shopping"
+
+https://medium.com/walmartglobaltech/building-a-conversational-assistant-platform-for-voice-enabled-shopping-6d174cdc4131
+
+- "Using Context to Improve Intent Classification in Walmartâ€™s
+
+Shopping Assistant"
+
+https://medium.com/walmartglobaltech/using-context-to-improve-intent-classification-in-walmarts-shopping-assistant-28f62d40fd17
+
+- "Making Walmartart's Shopping Assistant Proactive"
+
+https://medium.com/walmartglobaltech/making-walmarts-shopping-assistant-proactive-53a1764fcdee
+
+Papers & Talks:
+
+- Semantic Representation and Parsing for Voice eCommerce (Paper and
+
+Talk) - Vivek Kaul, Shankara B Subramanya, R2K Workshop at KR 2018
+
+- Knowledge Graphs for AI-Powered Shopping Assistants, GraphConnect
+
+2020, Ghodrat Aalipour, Mohammed Samiul Saeef
+
+https://graphconnect2020.sched.com/event/atkC/knowledge-graphs-for-ai-powered-shopping-assistants
+
+- Improving Intent Classification in an E-commerce Voice Assistant
+
+by Using Inter-Utterance Context (Paper + Talk) - Arpit Sharma,
+
+e-Commerce & NLP at ACL 2020
+
+https://www.aclweb.org/anthology/2020.ecnlp-1.6/
+
+Minimum Qualifications
+
+Experience with Python; solid knowledge SQL.
+Hands on experience with classical ML models, test/train/evaluation metrics, key parameters/techniques that affect model performance
+Understanding of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets.
+Familiarity and ideally experience with more recent deep ML models and NLU (e.g., Transformers, BERT, Electra, T5).
+A business analytical mind; ability to communicate with consumers of the model and present results in intuitive ways.
+Experience analyzing data to identify patterns and conducting error/deviation analysis; passion for fixing issues in the data and finding the optimal representation.
+Ability to take a project from scoping requirements through actual launch.
+A continuous drive to explore, improve, enhance, automate, and optimize models and products.
+Excellent oral and written communication skills.
+Bachelor's degree or certification in Machine Learning, Computer Science, Engineering, Mathematics, Statistics or any other related field.
+Preferred Qualifications
+
+Ability to develop experimental and analytic plans for data modeling processes, use of strong baselines, ability to accurately determine cause and effect relations
+Strong attention to detail and exceptional level of organization
+Proven ability to achieve results in a fast paced, highly collaborative, dynamic work environment
+Hands-on expertise in many disparate technologies and the full model lifecycle, typically ranging from data pipelines, data extraction, model training, model serving, labeling tools, ML-ops, ad-hoc tooling and all points in between.
+PhD in a relevant field (Machine Learning, Computer Science, Engineering, Mathematics, Physics, Statistics or a related field)
+#EmergingTechGlobalTech
+
+Minimum Qualifications...
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. 
+
+Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics or related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field. Option 3: 4 years' experience in an analytics or related field.

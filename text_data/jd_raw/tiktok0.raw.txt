@@ -1,0 +1,30 @@
+
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul and Tokyo.
+The MI Data Science team supports the Monetization Integrity (MI) group, whose vision is to ensure all monetized creativity on TikTok is safe, ethical and high quality. Together, our mission is to put user safety and advertiser experience at the centre of commercial content on TikTok.
+
+About the Role:
+We are looking for generalists and specialists in AI/ML techniques including computer vision (CV), natural language processing (NLP), and audio signal processing. You will be responsible for partnering with a variety of stakeholders (product, operations, policy, and engineering) and developing state-of-the-art models.
+
+What You'll Need:
+- Knowledge of underlying mathematical fundamentals in statistics, machine learning, and analytics.
+- Experience with exploratory data analysis, statistical analysis and hypotheses testing, and model development.
+- Fluency in SQL, Hive, Presto, or Spark and ability to write efficient code at scale with large datasets.
+- Experience using Python or at least one programming language efficiently at scale with large data sets.
+- Experience in building and evaluating machine learning models.
+
+What You'll Do:
+- Drive clarity and solve ambiguous, challenging business problems using data-driven approaches. Propose and own data analysis (including modeling, coding, analytics, and experimentation) to drive business insight and facilitate decisions.
+- Develop creative solutions and build prototypes to business problems using algorithms based on machine learning, statistics, and optimisation.
+
+Qualifications
+
+Basic:
+- PhD, M.S. or Bachelors degree in Statistics, Economics, Computer Science or another quantitative field. (If M.S. degree, a minimum of 1+ years of industry experience required and if Bachelor's degree, a minimum of 2+ years of industry experience required.)
+- Demonstrated excellence in a relevant AI/ML discipline (CV, NLP, ASR, etc.), including experience with ML model building with libraries such as Tensorflow, PyTorch, and OpenAI
+- Knowledge of fundamentals of machine learning, such as algorithm families (regression, classification, unsupervised), AB testing, hypothesis testing, and optimization
+Preferred:
+- Experience with human-in-the-loop ML, active learning, and data labelling
+- Experience with knowledge graphs and graph databases (e.g., Neo4j, triplestores, ontologies, taxonomies)
+- Strong communication skills, for example demonstrated through documentation and presentations. Able to present findings to senior management to inform business decisions.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.

@@ -1,0 +1,45 @@
+About the job
+We are a rapidly growing, mission-driven company that helps businesses get started with AI by developing end-to-end AI-powered products and solutions. This is a fast-paced environment where we work quickly and creatively to build solutions for a variety of exciting and challenging problems for diverse clients. We’re a start-up: we’re moving fast and we’re working hard.
+
+
+You’ll collaborate with a  fun ,  caring ,  global  team who believes in good engineering, honest and genuine relationships, good design, being  nerdy , and taking pride in one’s work. You’ll be given a lot of opportunities to learn,  teach , and progress in your career.
+
+
+We’re  humble ,  hungry , and  smart . We hope you are too.
+
+
+To be successful in the position, you need to:
+
+Deeply held passion for problem solving, math, software, and data science.
+Be curious (Fall in love with the data/problem) - take ownership of problems
+Be  ethical ,  honest ,  trustworthy , and  discrete 
+Care and  collaborate  - be a  team player 
+Be  calm under pressure 
+
+What are your top responsibilities?
+
+ Extracting insights  via rapid iterations of  EDA 
+ Communicating  insights effectively
+ Cleaning and transforming datasets 
+ Training ,  optimizing  and  deploying models  that provide business value
+Ensuring readability of code/notebooks
+
+Skills/experience we are looking for:
+
+At  least 2 years of experience  with the following ( Python ,  Scikit-learn ,  Tensorflow / PyTorch ,  Pandas ,  Numpy ,  Matplotlib ,  SQL ,  Git ,  Linux / Command line ,  Conda  environments, etc.)
+ Formal academic training in math, statistics, software engineering, or similar - OR - an equivalent amount of hands-on experience and self-directed learning .
+Ability to  explore patterns  in data and  find insights 
+Ability to produce effective  data visualizations 
+Effective  verbal and written communication skills 
+ Self-sufficient/capable  in terms of researching and finding answers to problems and roadblocks
+Good understanding of  machine learning algorithms  and when/why to apply them
+Good understanding of  model evaluation 
+Good  back-end web development  skills. We need you to be able to  set up servers  to handle  inference requests .
+A well-rounded knowledge of  modern development practices  including  version control systems ,  agile development methodologies ,  cloud servers and services , and so on.
+
+Experience that would help you stand out:
+
+ DevOps  / cloud infrastructure, especially with  GCP / Firebase  and/or  AWS ,  Azure 
+ Distributing workloads  to compute clusters
+Experience with diversity of  data science  problems
+Experience with  software development 

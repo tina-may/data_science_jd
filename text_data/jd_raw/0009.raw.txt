@@ -1,0 +1,41 @@
+Teamwork makes the stream work.
+Roku is changing how the world watches TV
+Roku is the #1 TV streaming platform in the US, and we’ve set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.
+
+From your first day at Roku, you’ll make a valuable — and valued — contribution. We’re a fast-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.
+
+
+About the Role
+Roku pioneered streaming to the TV and continues to innovate and lead the industry. While we are well-positioned to help shape the future of television-including TV advertising around the world, continued success relies on its investment in our machine learning/ML recommendation engine.
+
+Roku offers millions of options to our users: movies, episodes, news, and channels from all around the world. The ML Recommendations engine is key to user happiness by recommending them the most personalized channel or content they would love to watch. Solving this customer problem is why we're actively looking for a Senior Machine Learning Engineer, Search & Recommendations to drive further innovation in the channel and content recommendations.
+
+The person in this role will leverage their technical skills, business intuition, and analytical thinking build best of class machine learning products. Hence, communication and presentation skills are important. The role requires both high technical aptitude and problem-solving abilities, motivation, and exceptional attention to detail. We're always in "build mode" because we're a company of data-focused builders, especially on the data-driven team. Every day, you'll look at what exists and find ways to make it better.
+
+
+What you'll be doing
+Understand the key business metrics and KPI's and develop the new one based on how business is evolving
+Analyze user engagement and other key metrics to identify the trends
+Research and develop - tree, sequence, or neural networks based - state of the art machine learning models. Do the offline analysis to compare multiple models
+Run online AB tests and analyze them against the critical KPI's from #1
+Develop the machine learning infrastructure to scale newer models on production and make them more reliable
+Help develop multitask learning and multi objective model to balance different business KPI's
+Help in recruiting new engineers
+
+We're excited if you have
+5+ years of experience applying Machine Learning to concrete problems at large-scale with an MS or a PhD with 3 years of experience
+Strong CS fundamentals. Should be able to write an algorithm with ease
+Good understanding of data science and machine learning fundamentals like regression, classification, tree-based approach, neural networks, and sequence-based models
+Proven familiarity with NLP approaches like W2V or Bert, which includes identifying the right KPIs and objective functions
+We'd love to see that you've worked with big data systems (Spark, EMR, S3, and AirFlow) and can program (Java, Scala, or Python)
+Experience building in-production recommendation systems
+Good understanding of system architecture. Have experience in big data technologies, streaming architecture, data pipelines, etc.
+MS in Computer Science, Statistics, or related field, but a Ph.D. in CS or related fields is preferred.
+#LI-PP1
+The Roku Culture
+Roku is a great place for people who want to work in a fast-paced environment where everyone is focused on the company's success rather than their own. We try to surround ourselves with people who are great at their jobs, who are easy to work with, and who keep their egos in check. We appreciate a sense of humor. We believe a fewer number of very talented folks can do more for less cost than a larger number of less talented teams. We’re independent thinkers with big ideas who act boldly, move fast and accomplish extraordinary things through collaboration and trust. In short, at Roku you'll be part of a company that's changing how the world watches TV.
+
+We have a unique culture that we are proud of. We think of ourselves primarily as problem-solvers, which itself is a two-part idea. We come up with the solution, but the solution isn't real until it is built and delivered to the customer. That penchant for action gives us a pragmatic approach to innovation, one that has served us well since 2002.
+
+To learn more about Roku, our global footprint, and how we've grown, visit https://www.weareroku.com/factsheet.
+

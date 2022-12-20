@@ -1,0 +1,77 @@
+Benefits
+Pulled from the full job description
+401(k)
+401(k) matching
+Employee stock purchase plan
+Health insurance
+Paid time off
+Parental leave
+Position Summary...
+What you'll do...
+Data Scientist
+Are you a hardcore numbers person who would enjoy solving some of business’ toughest challenges by illuminating phenomena and opportunity held within one of the world’s largest data sets? As a Data Scientist at Walmart Global Tech, the mammoth scale and volume of our global data is virtually limitless. You will create insights that influence how we make decisions that have impact at an unprecedented scale.
+
+You will have the opportunity to do your best work while unlocking vast business opportunity by extracting key insights, using pattern recognition to develop predictive analytics, and translating results into goal-oriented business actions. Each day, you will be presented with a variety of new challenges and interesting projects that tap your interests and strengths. This isn’t analyst work; you’ll be leveraging data science methods, including AI and machine learning in an incredibly dynamic and engaging environment.
+
+Min Requirements: 7 years' experience in data science, machine learning, optimization models, or related field.
+How you'll make an impact:
+
+Advising on analysis and modeling techniques, selecting the best fit for structured & unstructured, complex data, and developing custom analytics models to generate insights that drive value for our customers and unlock competitive advantage for our organization
+Collaborating with our data engineers to gather the right information from our various sources so that you can implement advanced statistical methodologies and design interventions to optimize how our business can best perform
+Conducting exploratory analysis including hypothesis testing, statistical inference, and statistical analysis (predictive and/or prescriptive)
+Partnering with business and technical stakeholders to translate challenging retail business problems into state-of-the-art data science solutions
+Developing processes and tools that monitor, analyze and continuously improve model performance and data accuracy
+What you'll bring:
+
+You’re an inquisitive, out-of-the box thinker who’s continually on the lookout for opportunities to improve and innovate data science solutions
+You have consistently high standards, your passion for quality is inherent in everything that you do
+You have the courage to fail fast
+You have proven ability as a full stack data scientist who develops, optimizes, and scales models for the production environment
+You connect the how and why, using your knowledge of data science theories and methodologies to derive the best approach that is fit-for-purpose
+You have a proven ability with statistical methods and advanced modelling techniques (e.g., SVM, Random Forest, Bayesian inference, graph models, NLP, Computer Vision, neural networks, etc.)
+You’re experienced with languages used to manipulate data and draw insights from large data sets (e.g. Python, R, SQL, etc.)
+You’re proficient using database technologies and distributed datastores (e.g. SQL, NoSQL)
+You have experience with Spark, Hive and TensorFlow etc.
+The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job.
+
+The full Job Description can be made available as part of the hiring process.
+
+Hiring across: Associate Tech, Fulfilment, Ops Engineering, Integrated Supply Chain & Transformation, Global Marketplace, Transportation, Data Science, Replenishment, Computer Visision & AI, Merchandising, Item & Inventory, WEC
+
+About Global Tech
+
+From entry-level to executive positions, Walmart provides limitless opportunities for growth, and career development.
+
+Walmart started small, with a single discount store and the simple philosophy of selling more for less. Today, we are a growing technology-enabled company founded on the same values as our first store. We establish clear expectations, empower associates to manage their work, and hold ourselves and one another to a high standard.
+
+Walmart's scale enables us to have an. No other company has the reach of Walmart, with 2.3 million associates worldwide and over 230 million weekly customers.
+
+Walmart is reshaping retail by investing in an expanding workforce. While technology is at the heart of our digital transformation, people are the reason we succeed and the force behind our innovations. We train our team in the skillsets of the future and bring in experts like you to help us grow.
+
+Flexible, hybrid work
+
+We use a hybrid way of working that is primarily virtual, while remaining near the locations Global Tech calls home. This approach helps us make quicker decisions, remove location barriers across our global team, be more flexible in our personal lives and spend less time commuting. Of course, being together in person is an important part of our culture and shared success. We use our campuses to collaborate and be together in person, as business needs require and for development and networking opportunities.
+
+Our U.S. hubs are: Atlanta, GA; Bentonville AR; Charlotte, NC; Dallas, TX, Hoboken, NJ; Reston, VA; Seattle, WA and Sunnyvale, CA.
+
+Benefits & Perks
+Beyond our great compensation package, we offer performance incentives. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.
+
+Equal Opportunity Employer
+Walmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions – while being inclusive of all people.
+
+#EpicHumanImpact
+
+Minimum Qualifications...
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Minimum Qualifications
+Bachelor of Science and 2 years' data science experience OR Master of Science and 1 year's data science experience.
+Preferred Qualifications...
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Bachelor's degree and experience in an analytics related field, Doctorate and experience in an analytics related field, Master's degree and experience in an analytics related field, SQL and relational databases (for example, DB2, Oracle, SQL Server), Statistical Programming Language
+Bachelors: Analytics, Bachelors: Economics, Bachelors: Mathematics, Bachelors: Statistics, Doctorate: Analytics, Doctorate: Economics, Doctorate: Mathematics, Doctorate: Statistics, Masters: Analytics, Masters: Economics, Masters: Mathematics, Masters: Statistics
+Business Analytics - Certification, Data Mining - Certification, Statistical Analysis - Certification
+Primary Location...
+121 River St, Hoboken, NJ 07030-5989, United States of America

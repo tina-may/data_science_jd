@@ -1,0 +1,14 @@
+Summary
+Posted: Sep 14, 2022
+Weekly Hours: 39
+Role Number: 200425121
+We are a group of engineers and researchers responsible for information intelligence at Apple. We build systems to connect Apple users to information in products ranging from search and Siri to on-device intelligence. We are looking for researchers who are passionate about developing algorithms, techniques, and systems that delight millions of users in Apple products and in the process push the frontier of  deep learning .
+Key Qualifications
+Demonstrated expertise in  deep learning  with  publication record  in relevant conferences (e.g., NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, KDD, ACL, ICASSP, InterSpeech) or a track record in applying deep learning techniques to products
+Proficient  programming skills in Python  and one of the  deep learning toolkits  such as  PyTorch ,  Tensorflow , or  Jax 
+Ability to work in a  collaborative  environment.
+Description
+We believe that the most interesting problems in deep learning research arise when we try to apply learning to real-world use cases, and this is also where the most important breakthroughs come from. You will work with a close-knit and fast growing team of world-class engineers and scientists to tackle some of the most challenging problems in deep learning and information intelligence, including  natural language processing ,  multi-modal understanding , and combining learning with knowledge. Example applications include (but are not limited to) -  Web-scale information retrieval  - Human-like  conversation agent  -  Multi-modal perception  for existing products and future hardware platforms - On-device intelligence and learning with strong privacy protections Further, you will have opportunities to identify and develop novel applications of  deep learning  in Apple products. You will see you ideas not only published in papers, but also improve the experience of millions of users.
+Education & Experience
+ PhD, or equivalent practical experience, in Computer Science, or related technical field 
+Additional Requirements

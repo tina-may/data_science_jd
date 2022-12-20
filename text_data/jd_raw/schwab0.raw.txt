@@ -1,0 +1,73 @@
+Senior Data Scientist
+Job LocationsUS-TX-Austin | US-TX-Westlake
+Requisition ID 2022-84156 Posted Date 2 months ago(7/25/2022 3:31 PM) Category Data, Analytics, Business Insights & Strategy Position Type Full time
+Your Opportunity
+Are you all about leveraging data to provide customers better products and grow business? We are looking for qualified candidates to design and implement scalable machine learning solutions for dynamic financial products, deliver business insights from unstructured data with clear narratives and creative visualizations, and partner closely with the data infrastructure and platforms teams to develop tools and automation. We have a large and diverse set of data, sourced from our extensive client base and huge volume of transactions across multiple channels. This is a great opportunity to apply your craft as a data scientist while working with business partners to drive data-driven solutions.
+
+Data, Analytics and Insights (DAI) is a hard-working, fun team that supports multiple business units across Schwab with quantitative-based decision support. Our mission is to help our business partners better understand the needs and behaviors of our prospects and clients through analytics, data science, market research, and business intelligence.
+
+ 
+
+Workplace Flexibility Program: We're proud to support our employees in a working approach that allows you to bring your best self to work – whether that’s in the office or remote.
+
+Most Schwabbies have the opportunity to voluntarily work in the office or at home based on their preference*
+When the firm is ready to fully return to the office, employees will have the flexibility of a hybrid work environment, spending some time working remote and some time in the office.
+Employees and managers can discuss and decide what works best for them, with additional flexibility available based on their role, business needs, and individual circumstances.
+*Subject to change as Schwab is continually evaluating the current environment in order to best care for the safety and well-being of our employees.
+
+What you are good at
+You will work collaboratively with a team of product managers, data scientists and engineers, throughout the project lifecycle including data extraction and preparation, design and implementation of algorithms, and creating solutions that solve real world problems.
+
+Utilize NLP to build chatbot that will be utilized by Schwab clients and prospects across different channels and instrument Dialogflow for intents
+Get hands-on with large disparate datasets, hack through complex and messy data, and analyze it leveraging the latest algorithms and state-of-the-art techniques and tools
+Use open source tools and platforms like Anaconda Enterprise, Python and R to apply algorithms and analytic models to big data problems
+ 
+
+What you bring
+
+ 
+
+NLP: Knowledge of NLP concepts and hands on experience in building Text classification ML/statistical model and implementing entity extraction algorithms. Ability to make data driven decisions to train and re-train Dialogflow intents. Experience with extracting relevant data from user transcripts including cleaning, lemmatizing and building text corpus for building classification models
+
+ 
+
+Machine Learning: Knowledge of and experience with designing and implementing algorithms (clustering, decision tree learning, GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc), and the ability to articulate their real-world advantages and drawbacks.
+
+ 
+
+Statistical Methodology: Knowledge of advanced techniques and concepts (sampling, A/B testing, regression, properties of distributions, statistical tests and proper usage, etc).  Ability to understand model performance
+
+ 
+
+Business acumen: You understand the bigger picture for customers and the business and know how to probe beyond stakeholders’ stated requests to really understand their needs and the value of information.
+
+ 
+
+What you have
+Graduate degree in Statistics, Mathematics, Computer Science, Operations Research, Engineering or similar quantitative field.
+8+ years’ experience in Python, R, applied statistics
+6+ years’ experience in SQL, Hive, Hadoop
+Hands on experience in working on platforms/environments such as Google Dialogflow is a plus
+Proactive, critical thinker, bias to action and a go-getter attitude
+Even Better
+
+Enthusiastic quick learner who loves to develop and test hypothesis
+Experience in financial services would be a plus but not necessarily a requirement.
+Apply for this job
+Refer a friend
+Share on your newsfeed
+Why work for us?
+
+Own Your Tomorrow embodies everything we do! We are committed to helping our employees ignite their potential and achieve their dreams. Our employees get to play a central role in reinventing a multi-trillion-dollar industry, creating a better, more modern way to build and manage wealth.
+
+ 
+Benefits: A competitive and flexible package designed to empower you for today and tomorrow. We offer a competitive and flexible package designed to help you make the most of your life at work and at home—today and in the future. Explore further. 
+
+ 
+Schwab is committed to building a diverse and inclusive workplace where everyone feels valued. As an Equal Opportunity Employer, our policy is to provide equal employment opportunities to all employees and applicants without regard to any status that is protected by law. Please click here to see the policy.
+
+ 
+Schwab is an affirmative action employer, focused on advancing women, racial and ethnic minorities, veterans, and individuals with disabilities in the workplace. If you have a disability and require reasonable accommodations in the application process, contact Human Resources at applicantaccessibility@schwab.com or call 800-275-1281.
+
+ 
+TD Ameritrade, a subsidiary of Charles Schwab, is an Equal Opportunity Employer. At TD Ameritrade we believe People Matter. We value diversity and believe that it goes beyond all protected classes, thoughts, ideas, and perspectives.

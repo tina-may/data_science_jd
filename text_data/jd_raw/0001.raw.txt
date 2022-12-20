@@ -1,0 +1,39 @@
+JOB DETAILS
+
+Job Title: Data Scientist VP
+Company: CitiBank
+
+Responsibilities:
+
+Design rigorous and statistically valid data science, machine learning use case hypotheses, with detailed data requirement definition, feature selection, machine learning and deep-learning based technique identification and success metrics definition.
+Partner within CDO and other functional area team members, stakeholders to ensure alignment of objectives with other ongoing and future initiatives.
+Provide expertise in proof of concept development and prioritization, and execute proof of concepts on Big Data and desktop platforms, either independently or in partnership with external vendors, for testing ideas and scaling up proven concepts.
+Identify internal data for analysis and extend with third party sources of information, when needed, while enhancing data collection procedures to include information that is relevant for building analytic systems. Process, cleanse, and verify the integrity of data used for analysis.
+Stay up to date about latest development in this area by identifying relevant emerging Data Science techniques, tools and proven cases in banking and other industries.
+Mines and analyzes data from various banking platforms to drive optimization and improve data quality
+Deliver analytics initiatives to address business problems with the ability to identify data required, assess time & effort required and establish a project plan
+Consults with business clients to determine system functional specifications. Applies comprehensive understanding of how multiple areas collectively integrate to contribute towards achieving business objectives
+Consults with users and clients to solve complex system issues/problems through in-depth evaluation of business processes, systems and industry standards; recommends solutions
+May lead system change process from requirements through implementation; provides user and operational support of application to business users
+Considers the business implications of the application of technology to the current business environment; identifies and communicates risks and impacts
+Drives communication between business leaders and IT; exhibits sound and comprehensive communication and diplomacy skills to exchange complex information
+Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+Communicate progress, and present results in a clear manner.
+
+Experience:
+
+ Master’s Degree strongly preferred in Computer Science, Engineering, Statistics, Math, or related quantitative disciplines 
+At least six years of hands on relevant data science experience in using data analytics,  visualization ,  statistical programming  and data mining for problem-solving, with domain knowledge and experience in  Banking  a plus
+Understanding of  Data Quality  issues and  Data Governance  concepts, a plus
+Excellent understanding of data science, machine learning techniques, algorithms and toolkits to develop solutions that are ready for production and can perform at scale
+Applied quantitative and  statistics  skills, such as  statistical analysis ,  distributions ,  multivariate testing ,  regression  and  optimization algorithms  etc. to  design tests , interpret and explain results
+Proven experience with  programming languages, such as Python, R, Matlab, C/C++, Java or Scala  for large scale data analytics
+Data oriented personality with experience in identification, preparation and visualization of large scale  structured and unstructured data  from multiple  databases  and formats. Experience in  financial data , a plus
+Experience in executing and solving problems in  Big Data  as well as desktop platforms, for rapid testing and execution of ideas and scaling them up for production
+Experience in developing and designing  tests to validate ideas 
+ Process Improvement  or  Project Management  experience
+Ability to work collaboratively with regional and global partners in other functional units; ability to navigate a complex organization; to influence and  lead  people  across cultures  at a senior level
+Excellent  written ,  verbal  and analytical skills.  Communication  skills to influence people to exchange information and results
+Strong presentation skills with the ability to  articulate complex problems  and solutions through concise and clear messaging
+Must be a self-starter, flexible, innovative and adaptive. Intellectual curiosity, to stay up to date about latest development in this area
+Highly motivated, strong attention to detail, team oriented, organized

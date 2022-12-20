@@ -1,0 +1,47 @@
+Do you have a passion for artificial intelligence, machine learning, and data analysis? Do you yearn to have the impact of your work recognized and valued by more than just your development team? Do you constantly wonder what you could build if only you had access to world-class data sets and computing resources?
+
+If yes, we have just the role for you.
+
+In Deloitte's Audit and Assurance business, we make businesses and markets better. An audit is more than an obligation; it is an opportunity to see further and deeper into businesses. In our role as independent auditors, we enhance trust in the companies we audit, helping a multitrillion dollar capital markets system function with greater confidence. As we aspire to the very highest standards of audit quality, we deliver deeper insights that can help clients become more effective organizations.
+
+Deloitte's Audit and Assurance business embraces the promise of artificial intelligence and machine learning, with various forms of AI and ML embedded in the audit technology solutions currently used by our 10,000+ practitioners today. Within our dedicated Data Science organization, a subgroup of our award-winning Audit Transformation group, we continue that journey enabling the next generation of AI-enabled solutions that usher in a future that completely transforms the way our practitioners perform their audit work, and the insights we can provide to our clients.
+
+You will be joining a growing team of talented professionals in a fast-paced yet collaborative startup-like environment dedicated to realizing the Deloitte Audit and Assurance vision of an AI-enabled audit. You will be leveraging the most advanced technologies in machine learning, natural language processing, time-series modeling, and reinforcement learning to lead our business into the future.
+
+As a Senior Data Scientist, you will focus on supporting the Data Science group and actively participate in all the processes of a data science project, with a focus on generating and selecting features, creating models, and boosting their performance and accuracy, as well as guiding and supervising more junior resources.
+
+Specifically, you will be expected to:
+Apply rigorous data science practices on your specific assigned workstreams; particularly:
+Perform exploratory data analysis to understand relationships and opportunities to influence outcomes, while being able to quickly iterate common feature transformation and model types to find the best predictive models
+Develop proofs of concept to verify your ideas, including counterfactual explanations for interpretability
+Collaborate daily with Data Science Managers to solve complex data science problems that emerge within your workstream and others.
+Collaborate with subject matter experts to obtain an understanding of the underlying business problem, and to define and refine the corresponding technical solution.
+Be a key contributor to the planning and direction of a project and effectively prioritize goals and objectives
+Identify opportunities to apply the latest advancements in machine learning and artificial intelligence to build, test, and validate models
+Make impactful contributions to internal discussions on emerging machine learning methodologies
+Effectively explain technical concepts
+Develop and embed automated processes for model validation, deployment, and implementation
+Qualifications
+
+Required:
+Undergraduate degree in a quantitative field (computer science, engineering, mathematics, physics, machine learning, statistics)
+3+ years of industry experience designing, developing, and deploying machine learning models
+Experience with cloud-based ecosystems (Azure, GCP, AWS)
+Extensive experience with Python and relevant libraries (NumPy, Pandas, Scikit-learn, etc.)
+Solid understanding of machine learning model development life cycles
+Demonstrated understanding of machine learning model performance assessment
+Experience with version control practices and tools (Git, etc.)
+Experience using common machine learning and deep learning libraries and techniques, including TensorFlow, PyTorch, and big data platforms
+Fluency in both structured and unstructured data (SQL, NOSQL)
+Knowledge of Docker, Jenkins, Kubernetes, and other DevOps tools
+Excellent verbal and written communication skills
+Limited immigration sponsorship may be available
+Ability to travel 30%, on average, based on the work you do and the clients and industries/sectors you serve
+Preferred:
+Master's degree or PhD in a quantitative field (computer science, engineering, mathematics, physics, machine learning, statistics)
+Extensive experience with Microsoft Azure, including certification in machine learning
+Experience with machine learning pipelines (Azure ML)
+Experience in an Agile working environment and related project management tools (Jira, Azure DevOps, etc.)
+Public AI-related projects you have developed available on GitHub
+For individuals assigned and/or hired to work in New York City, Jersey City, Colorado, or Nevada, Deloitte is required by law to include a reasonable estimate of the compensation range for this role. This compensation range is specific to New York City, Jersey City, State of Colorado, and the State of Nevada and takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $106,480 to $177,470.
+

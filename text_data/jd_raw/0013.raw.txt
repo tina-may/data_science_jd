@@ -1,0 +1,44 @@
+Bioinformatics Scientist
+Boehringer Ingelheim  Ridgefield, CT On-site 16 hours ago  7 applicants
+Full-time
+10,001+ employees · Pharmaceutical Manufacturing
+You have a preferred skill badge
+
+Apply
+
+Save
+Save Bioinformatics Scientist at Boehringer Ingelheim
+
+Share
+
+Show more options
+Bioinformatics Scientist
+Boehringer Ingelheim Ridgefield, CT On-site
+
+Apply
+
+Save
+Save Bioinformatics Scientist at Boehringer Ingelheim
+
+Show more options
+Overview:
+
+Strong scientific understanding and experience in bioinformatics Experience in pharmaceutical research a plus Design, implement and/or deploy NGS data analysis workflows for data processing, visualization, integration and mining to support novel therapeutic target identification and disease biomarker discovery Data Analysis
+Implement methods for omics data analysis, and interpretation of genomic data sets (e.g., bulk RNA-seq, scRNA-seq, ATAC-Seq)
+Data Visualization: Fluency in contemporary data visualization methods like R Shiny , D3 Data Integration
+Analyzing diverse datasets (multi-omics) to find relevant drug discovery targets and downstream effects relevant to immune disease
+Data Mining: Internal, collaborative, and public databases to assist in the characterization of immune disease Select and benchmark methods and tools, define and perform appropriate QC measures
+Apply and develop innovative analysis approaches when standard methods are not adequate Interpret and present analysis results to coworkers and collaborators
+Follow relevant scientific literature to ensure use of optimal methods and understand emerging practices across the field Demonstrates the ability to interpret the outcome of experiments, propose appropriate follow-up, and may propose new avenues of investigation Communicates own work effectively orally and in writing; contributes to writing protocols, procedures, and technical reports Automate processing and results reporting and delivery Reports and treats data with a high level of integrity and ethics Complies with applicable regulations; Maintains proper records in accordance with SOPs and policies
+The successful candidate will have experience with more than one of the following; analyzing next-generation sequencing (NGS), functional genomics, statistics for big data analysis, or multi-omics data integration
+Good knowledge of existing bioinformatics databases and file formats In-depth understanding of computational methods for NGS analysis and the usage of public data resources required
+Strong hands-on skills in relevant programming languages (e.g., R, Python, Shiny, UNIX/Linux, UNIX bash shell scripting, Nextflow), statistical software, cloud computing, visualization tools, and relevant R/Bioconductor packages
+Demonstrated ability to produce well-designed and documented code Familiarity with computational biology tools and experience working with computational biologists to solve problems
+Must enjoy working in a multi-disciplinary and collaborative environment
+Ability to troubleshoot both individually and as part of a team
+Excellent oral and written skills with the ability to communicate in an open, transparent, timely and consistent manner
+
+Education:
+
+Master’s degree from an accredited institution with one-plus (1+) years of experience in a related scientific discipline (Computer Science, Genomics, Biostatistics or Bioinformatics preferred)
+Bachelor’s degree from an accredited institution with seven-plus (7+) years of experience in a STEM discipline.

@@ -1,0 +1,32 @@
+Bloomberg Law is changing the legal industry by delivering the most sophisticated research platform on the market with a focus on automation, analytics and real-time answers. Our goal is to become an indispensable tool for legal professionals by supporting their day-to-day tasks and providing solutions that help them get real-time answers and better serve their clients.
+
+Within Bloomberg Law (BLAW), the BLAW Machine Learning Team is the central machine learning engineering team with 10 machine learning engineers working with cutting edge technologies to build data-driven customer-facing products using Natural language processing (NLP), Information extraction (IE) and Machine Learning (ML) techniques such as named entity disambiguation, text classification, clustering and topical modeling, text summarization and personalized recommendations. Our current focus is on legal research and contract drafting tools designed to speed up those tasks for legal professionals by letting AI do the heavy-lifting. These tools let users upload a document, then automatically classify it, structure its contents and analyze the text by identifying topics, extracting entities and suggesting other relevant documents. Some of the specific problems we are working on this year include summarizing legal content, extracting case outcomes from court dockets and data mining from legal contracts. To solve these, we use both traditional methods as well as techniques such as attention-based deep neural networks, deep language models. We work closely with product managers, software engineers and legal domain experts using agile development.
+
+In general Machine Learning projects have an intrinsic dose of uncertainty, so a good fit for our team is a person who is self-driven, proactive, comfortable dealing with uncertainty and ambiguity in task definition. We're a highly collaborative team, both internally and across other teams, so being a team player and a good communicator are important for success in our team.
+
+As part of our team, you will be developing machine learning (ML) models to our business needs. You will drive, design and develop machine learning solutions. A right combination of cross-field ML techniques, deep understanding of the business problem and high quality training data is fundamental to our models producing high quality models for our client's needs. You will collaborate with product managers and legal domain experts to understand business problems and map them to ML problems. You will research cutting-edge ML/NLP techniques and apply them to our business problems. You will collaborate with legal domain experts to gain valuable insights and use their legal expertise to get high quality annotated training data. You will closely be working with product owners, legal data analysts (our domain experts), data engineers and front end engineers to build and integrate ML solutions to our product.
+
+Legal AI is an exciting and rapidly evolving field. If you are interested in working with a highly collaborative team to develop cutting edge solutions and make a big impact, please apply! We'll trust you to:
+Drive, design & develop ML projects as the principal point-of-contact
+Collaborate with domain experts and product managers to understand business needs and map business problems to ML Problems
+Learn cutting-edge research in advanced ML & NLP topics and design ML/AI solutions for the problems
+Develop bespoke ML/AI prediction models for legal domain
+Use metrics to make data-driven decisions
+Write and maintain production-quality code
+Collaborate with AI platform engineers on model maintenance and rollout
+Manage stakeholders expectations throughout the project on model development and release
+You'll need to have:
+3+ years of experience in Python or Java.
+3+ years of experience in Artificial Intelligence (AI), Natural language Processing (NLP), Machine Learning (ML), Statistical Models, and Text Analytics on large data sets
+Experience in all phases of machine learning application lifecycles from problem mapping and scoping to data gathering and preparation to optimizing model performance
+Experience with modern deep learning frameworks such as PyTorch or TensorFlow
+BS, MS, or PhD in Computer Science, Electrical Engineering, Applied Mathematics or related technology field with industrial experience
+Strong communication skills
+We'd love to see:
+Knowledge of advanced concepts such as weakly supervised learning, reinforcement learning and active learning
+Authored research publications, participation in ML competitions, working demos/repos
+Experience with distributed computational frameworks (YARN, Spark, Hadoop, Kubernetes, Docker)
+Enthusiasm to learn more about the legal domain (prior experience with legal is not required).
+Bloomberg is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of age, ancestry, color, gender identity or expression, genetic predisposition or carrier status, marital status, national or ethnic origin, race, religion or belief, sex, sexual orientation, sexual and other reproductive health decisions, parental or caring status, physical or mental disability, pregnancy or maternity/parental leave, protected veteran status, status as a victim of domestic violence, or any other classification protected by applicable law.
+
+Bloomberg is a disability inclusive employer. Please let us know if you require any reasonable adjustments to be made for the recruitment process. If you would prefer to discuss this confidentially, please email amer_recruit@bloomberg.net.

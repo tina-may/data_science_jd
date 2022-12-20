@@ -1,0 +1,85 @@
+Qualifications
+JAVA: 1 year (Required)
+
+Groovy: 1 year (Required)
+
+Benefits
+Pulled from the full job description
+401(k)
+401(k) matching
+Health insurance
+Paid time off
+Parental leave
+Full Job Description
+Role: Sr. Conversational AI Designer
+Target Level: Exempt
+Location: Newark, NJ (100 Mulberry Street)
+Reports to: Senior Manager, Process Improvement
+Come see what’s cookin’ at HelloFresh!
+At HelloFresh, we want to revolutionize the way people eat by making it more convenient and exciting to cook meals from scratch. We have offices all over the world and we deliver delicious meals to millions of people.
+
+We are the industry leader in meal-kit subscription services and we’re growing all the time. We have distinct meal-kit services that cater to everyone with the most menu variety in the market, which allows us to reach an incredibly wide population of people.
+
+The HelloFresh team is diverse, high-performing, and international, and our work environment is an inspiring space where you can thrive as a result.
+
+Sr. Conversation AI Designer Job Description:
+The Sr. Conversation AI Designer will report to the Sr. Manager, Process Improvement and support the vision of leveraging Artificial Intelligence and Natural Language Processing to enhance the customer experience here at HelloFresh. You will work with Project Management, the Process Improvement team, and other partners within the Customer Care department to gather and translate our business requirements into concrete technical solutions. You will have experience with conversational AI and Chatbot requirements, and a creative mindset to design and deploy creative user-focused conversational AI applications.
+
+You will…
+
+Must have experience in Java and Groovy
+
+Ensure excellent engagement between the Chatbot Brie and our customers within our digital platform.
+Understand our requirements and create conversational dialogue flows aimed at solving the end user’s problem.
+Contribute to and/or lead design sprints, workshops, reviews, and related activities with business and technical creative leadership
+Manage conversational AI models by providing unique answer responses to each question's intents related to the use case.
+Establish business rationality within the use-case and build conversational flows, linguistic conditions, ML conditions and language objects.
+Lead dialog engineering, testing, and training for continuous learning and improvement
+Work closely with the vendor teams to create technical specifications for how to improve the conversational creation process.
+Diagnose and resolve defects found during QA and UAT test phases and support production releases.
+Support Agile methodologies, balance our requirements with technical feasibility and set expectations on new use cases.
+Track and analyze end-user experience for continuous improvement and maintenance.
+Mentor and provide training to others within the team.
+Support other tasks as assigned.
+
+You are…
+Experienced in deploying technology to support ongoing operational improvements, introduce automation and manage transitions from manual to tech-enabled processes
+Passionate about creating engaging and effective conversational AI experiences.
+Equipped to manage projects, gather data, organize ideas, form recommendations and implement solutions.
+Collaborative in a team environment and successful independently
+Able to prioritize workload and meet demanding deadlines.
+A demonstrator of technical skills and proficiency through presentation and analytical tools necessary for creating visually and verbally engaging content/reports.
+A "Foodie"- fanatical about food!
+
+You have...
+Bachelor's degree in computer science, information systems, data science, data analytics or a related field required.
+At least 2-4 years of experience in developing conversational flows and logic with sound coding knowledge.
+Sound knowledge of AI/chatbot development landscape, tools, and other frameworks that allow enhancing the bot quality for chat and voice.
+Experience in programming languages such as Java, Scala, Groovy and SQL is required, Python experience is a plus.
+Experience with contact center technologies and platforms is desired.
+Strong organization skills and attention to detail.
+Ability to clearly communicate ideas and concepts.
+This position's essential functions demand the performance of the following physical requirements with or without reasonable accommodation:
+Prolonged periods working at a desk and on a computer
+Reading information on a computer screen and inputting data into a computer system
+
+You’ll get…
+Competitive Salary & 401K company match that vests immediately upon participation
+Generous parental leave of 16 weeks & PTO policy
+$0 monthly premium and other flexible health plans effective first day of employment
+75% discount on your subscription to HelloFresh (as well as other product initiatives)
+Snacks, coffee & catered meals
+Company sponsored outings & Employee Resource Groups
+Collaborative, dynamic work environment within a fast-paced, mission-driven company
+
+It is the policy of HelloFresh not to discriminate against any employee or applicant for employment because of race, color, religion, sex (including pregnancy), sexual orientation, gender identity, national origin, age, marital status, genetic information, disability, because they are a protected veteran, or any other protected classification under federal, state, or local law.
+
+Job Type: Full-time
+
+Schedule:
+
+8 hour shift
+Experience:
+
+JAVA: 1 year (Required)
+Groovy: 1 year (Required)

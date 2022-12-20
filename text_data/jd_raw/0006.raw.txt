@@ -1,0 +1,42 @@
+Job Description:
+
+The AI Research Labs is research-based, user-obsessed, and technology enabled so that we can create meaningful learning solutions to serve users in K-12, Higher Education, the Workforce, and the Language Learning ecosystem.
+
+The Mission of the Labs is to advance educational and employment opportunity by providing tools and services that help individuals worldwide identify, efficiently progress toward, and meet their learning and career goals.
+
+We seek to lead the EdTech field in the delivery of efficacious learning tools that are built with users, backed by science, and offer efficiency, flexibility, and insights that support meaningful decision-making along education and workforce journeys. We execute on the values of equity, opportunity, quality, and agility. We practice these values by building self-organizing teams of diverse perspectives, co-designing meaningful solutions with educators, learners, parents, employers, and jobseekers worldwide, regularly measuring impact, and continually improving.
+
+ETS’s Research & Development division has an opening for a dialog researcher in the NLP research group in the AI Labs. The group currently consists of about 30 research scientists and engineers in areas related to NLP, Speech and Dialog systems. The group works on foundational and applied research, infrastructure, and applications driven by user needs in the educational domain.
+
+Responsibilities:
+Take responsibility for conceptualizing, proposing, and directing projects in one or more of the following areas: spoken dialog systems, conversational agents, tutoring systems, multimodal systems, dialog generation. Projects may include (1) foundational and applied research projects, (2) development projects that use scientific principles to create tools, prototypes and new products.
+Be a key collaborator in generating or contributing to new knowledge or capability in the field of spoken dialog processing, and in applying that new knowledge and capability to existing and/or new ETS products and services. Be the SDS subject matter expert in cross-functional teams, and collaborate with scientists from other fields, user experience researchers, engineers and developers.
+Document and disseminate the results of research and/or development projects through an emerging collection of publications and presentations. Publication includes peer-review journals, peer- review conference proceedings, patents, books and book chapters, and other print media. Presentation may be at international, national, or regional conferences, client meetings, and ETS seminars.
+Participate in developing the research roadmap for the strategic area. Develop proposals and budgets for moderately sized projects and/or assist in development for major ones.
+Actively seek input from peers on the quality of one’s work. Actively seek opportunities to provide constructive criticism to peers so as to improve the quality of their work. Conduct journal and conference proposal reviews. Be a reviewer for the ETS RR series and provide thorough, responsive reviews.
+Actively seek mentoring from more senior scientific and other R&D staff, developing a continuing mentoring relationship. Act as a mentor to research support staff and/or junior scientists, developing a continuing mentoring relationship.
+Consult on testing program, R&D management, or other ETS management concerns.
+Manage moderately sized projects, and/or assist in the management of major ones, involving staffing needs and scheduling, budgeting, acquisition and utilization of equipment and interaction with other areas of R&D.
+Develop external professional relationships and work to refine the scientist’s identity. Play an active role in activities sponsored by one or more organizations substantively related to the work of ETS (e.g., not only as member and regular presenter, but also serving as a committee member).
+
+Experience And Skills
+
+Education, Certifications, or Special Licenses:
+A Ph.D. in Computer Science, Electrical Engineering, Natural Language Processing, Computational Linguistics, or a similar area with major education in spoken dialog technology.
+
+Relevant Years of Experience:
+Three years of progressively independent research and/or development experience in dialog technology and/or development experience for deploying spoken dialog technology capabilities is required.
+Practical expertise with spoken dialog systems and fluency in at least one major programming language (e.g.,python, Java, JavaScript, Node.js)
+For more senior position, experience managing staff and teams is a plus. The level at which the candidate is hired will be adjusted based on candidate experience.
+
+#DICE
+
+COVID-19 Requirements
+
+ETS requires all new hires to either certify that they have been fully vaccinated or request and obtain an exemption due to medical or religious reasons by their start date.
+
+EDUCATIONAL TESTING SERVICE is an Equal Opportunity and Affirmative Action Employer of Women and Minorities.
+
+EDUCATIONAL TESTING SERVICE is an Equal Opportunity and Affirmative Action Employer of protected Veterans and Individuals with Disabilities.
+
+EDUCATIONAL TESTING SERVICE is a Drug-free workplace.

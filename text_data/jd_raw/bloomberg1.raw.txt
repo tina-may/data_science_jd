@@ -1,0 +1,22 @@
+The ADSK (Analytics Desk) Engineering team builds and supports Bloomberg's premier customer service system. Our applications handle around 5 million questions per year in several languages and offer 24/7 support to over 300,000 clients around the globe, creating more than a billion rows of chat data. Our team leverages this chat data in a variety of ways to build ML/NLP tools that streamline the interactions between clients and representatives. These tools include
+a chatbot that automatically answers client FAQs
+an NLP model that will match a client with a representative with the required expertise, depending on the topic of the client's question
+algorithms that will surface relevant content to a representative as they are chatting with a client to help the representative answer the client's question
+applications that allow business stakeholders to explore what topics clients are asking about and search across client chats.
+Our tools combine ML/NLP models, event-driven backend technologies, and internally built solutions (both within our team and from other teams within Bloomberg) to handle various forms of chat text across ADSK. We'll trust you to:
+Work with your teammates and our business stakeholders to understand the problems at hand
+Identify opportunities to leverage ML/NLP technologies to solve complex business problems
+Work and collaborate with ML/NLP researchers across Bloomberg
+Take ownership of the product and domain and stay current with research and technologies
+Build and execute on projects in an efficient and agile manner
+You'll need to have:
+A PhD in ML/NLP (or a related field), or a Master's in ML/NLP and at least 3 years work experience
+Experience with ML/NLP technologies
+Drive to constantly push the envelope when it comes to finding the right solution to problems at hand
+Passion to try new things for the right reasons (e.g. experimenting with a new model to solve a business problem)
+Curiosity to learn a new domain and ability to pick-up new technologies if needed
+We'd love to see:
+Experience with integrating ML/NLP technologies into a live production system
+Knowledge of Python, C++
+Experience in designing and implementing complex systems and applications
+Bloomberg is an equal opportunities employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

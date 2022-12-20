@@ -1,0 +1,25 @@
+Possible Position: Design and evaluate linguistic ontology for text/speech data labeling
+Hello,
+My name is Allison Howard and I’m a recruiter at Tiger Analytics. We’re currently looking for someone with your experience for a role at our company.
+
+If you’d like to discuss this opportunity in greater detail, please send me your resume, a good contact number and several days/times to reach you and I will send a calendar invite for us to talk for about 15 to 30min.
+
+**Please Note: This is for a Fulltime role at Tiger Analytics NOT C2C or C2H)**
+
+**Brief Job Description**
+
+1. Design and evaluate linguistic ontology for text/speech data labeling (to be done by human annotators and used for ML training data)
+2. Write scripts to pull and prepare data from logs for linguistic analysis
+3. Understand in detail both linguistics and ML components of project to facilitate cross-team communication and collaborative work.
+4. Strong python scripting and excel skills for data manipulation and analysis
+5. REST API Knowledge
+6. Communicate LDL (Language Design and Labeling) perspective to engineering and product teams at both low (technical) and high (business) level.
+8. Occasionally contribute to AI/ML research discussions and brainstorming sessions. Especially concerning neural network based approaches, as well as content retrieval and ranking.
+9. Basic knowledge of Databricks, S3, Elasticsearch. Theoretical linguistics (syntax and semantics) knowledge is a plus.
+10. Experience with and understanding of intent classification and slot filling
+11. Take initiative to navigate business/organizational structure.
+
+Allison Howard
+Talent Acquisition Team at Tiger Analytics
+allison.howard@tigeranalytics.com
+www.tigeranalytics.com

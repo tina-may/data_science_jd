@@ -1,0 +1,39 @@
+Summary
+
+Are you interested in building products used by more than a billion people? What happens when the world’s most innovative engineers collaborate with the world’s most creative storytellers? TV gets reinvented. In the TV App Services Teams at Apple, we work every day to create products that enrich people’s lives. Meet the re-inventors: The Apple TV Services teams built and manage the Apple TV app as well as tvOS, which redefined and refined the way people watch sports, and so much more. Today, these teams also handle one exciting realm at Apple: They bring viewers the sport experience to access NBA, NFL, MLB and much more games. And they’ve engineered it so sports can be enjoyed on Apple devices. To deliver Apple-level quality on a global scale, these engineers employ talent and tools to efficiently ingest, process and display sport data. They also integrate at the OS level to build the best user experiences with the Siri ecosystem. The Sports software engineering develops next generation NLP solutions to support Apple Sports solution. Our mission is to maintain a comprehensive and effective support, and sports narrative for sports fan around the globe. Our Sports platform is growing rapidly to support new sports, leagues and countries. We are looking for a hands-on NLP/machine learning software engineer who is passionate about designing, developing, and fielding intelligent solutions that have direct and measurable impact to Apple Services.
+
+Key Qualifications
+
+5+ years of experience applying data science techniques to real business problems
+
+Solid understanding of Python, Java and general software development skills (source code management, debugging, testing, deployment etc.)
+
+Experience with NLP technologies & the handling of unstructured text
+
+Thorough understanding of text pre-processing and normalization techniques such as tokenization, lemmatization, stemming, POS tagging and parsing and how they work at a low level
+
+Prior experience in implementation of industry solution with traditional ML - classification, regression or clustering problem
+
+Working experience in Software Development Lifecycles, agile methodologies, and continuous integration
+
+Expertise in text-analytics - Sentiment Analysis, Entity Extraction, Language modeling - and associated sequence learning models
+
+Description
+
+The Sports Engineering team has delivered innovative solutions including sports narrative and sentiment analysis. There are many more exciting problems on improving customer service experience yet to be discovered and solved and business owners are eager to leverage the power of NLP and machine learning. We support a collaborative work environment, while allowing solution autonomy on projects.
+
+Education & Experience
+
+Degree in Computer Science or equivalent Engineering degree Certifications in Machine Learning, Data Science, Artificial Intelligence, Computational Linguistics or related fields
+
+Additional Requirements
+
+Strong communication and organization skills
+
+Managing highly scalable systems and product development
+
+Knowledge of Customer Support CRM solutions a plus
+
+General knowledge of Conversational AI & NLP
+
+Role Number: 200437387

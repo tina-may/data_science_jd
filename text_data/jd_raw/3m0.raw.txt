@@ -1,0 +1,66 @@
+3M HIS Computational Linguist - Remote USA
+Apply
+locations
+US, Minnesota, St. Paul
+Remote-United States
+time type
+Full time
+posted on
+Posted 30+ Days Ago
+job requisition id
+R01094331
+Job Description:
+
+3M HIS Computational Linguist
+
+Collaborate with Innovative 3Mers Around the World
+
+Choosing where to start and grow your career has a major impact on your professional and personal life, so it’s equally important you know that the company that you choose to work at, and its leaders, will support and guide you. With a diversity of people, global locations, technologies and products, 3M is a place where you can collaborate with 96,000 other curious, creative 3Mers.
+
+“For more than 30 years at 3M, I’ve seen firsthand how it’s a place where curious, creative and collaborative people thrive and build a rewarding career. As a leader in this company, my goal is to ensure each 3Mer sees and feels the positive impact we’re making around the world” – Mike Roman, chief executive officer and chairman of the board at 3M
+
+This position provides an opportunity to transition from other private, public, government or military environments to a 3M career.
+
+The Impact You’ll Make in this Role
+As a Computational Linguist, you will have the opportunity to tap into your curiosity and collaborate with some of the most innovative and diverse people around the world. Here, you will make an impact by:
+
+Supporting clinical Natural Language Understanding (NLU) system by maintaining and improving grammars, parsers, and terminologies
+Extracting, manipulating, and analyzing textual data and annotations using Python and batch scripts
+Determining solutions and priorities for NLU issues and enhancement requests
+Implementing and testing solutions in coordination with clinical, technical, and business teams
+Your Skills and Expertise  
+To set you up for success in this role from day one, 3M requires (at a minimum) the following qualifications:
+
+Bachelor’s Degree or higher in Linguistics AND/OR Computational Linguistics (completed and verified prior to start) from an accredited institution
+OR
+
+High School Diploma/GED (completed and verified prior to start) and eight (8) years of experience in grammars and parsing, corpus analysis
+Additional qualifications that could help you succeed even further in this role include:
+
+Experience with grammars and parsing, corpus analysis
+Experience with data annotation AND/OR medical coding and documentation.
+Experience with regular expressions
+Experience in software development (course work and internship experience considered)
+Master’s degree in a Linguistics or related field with an emphasis on computational linguistics, corpus analysis, syntax/morphology or related
+Experience with Python
+Experience/education with medical coding and documentation or healthcare informatics
+Proficiency with regular expressions
+Experience handling/transforming different formats including HTML, XML, JSON
+Experience with GitHub (merge/resolve conflicts) or other version control
+Experience with Java
+Good analytical and troubleshooting skills
+Travel: May include up to 10% 
+
+Relocation Assistance: May be authorized
+
+Location: REMOTE USA 
+
+Must be legally authorized to work in country of employment without sponsorship for employment visa status (e.g., H1B status).
+
+Supporting Your Well-being 
+
+3M offers many programs to help you live your best life – both physically and financially. To ensure competitive pay and benefits, 3M regularly benchmarks with other companies that are comparable in size and scope. 
+
+Resources for You 
+
+For more details on what happens before, during and after the interview process, check out the Insights for Candidates page at 3M.com/careers. 

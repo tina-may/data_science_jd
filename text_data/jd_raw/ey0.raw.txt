@@ -1,0 +1,69 @@
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+Unlike traditional Data Scientists roles, you gain access to multi-dimensional data from our international financial services industry clients to derive meaningful insights. This opportunity allows you to apply and learn cutting edge Python libraries like Spark, Dask, and Plotly in solving complex data challenges and generating unique insights for our clients through multi-dimensional data correlation analysis.
+
+The opportunity
+
+Join our audit innovation lab and you will work with our assurance teams and world-class clients to leverage leading edge technologies to find creative, technology driven solutions to our everyday client work, and where you will feel and see your impact.
+
+As a Data Scientist, you'll be joined by an entrepreneurial team of multidisciplinary professionals in role which focuses on collecting, combining, and exploring data to create insights that support our clients with their decision-making processes. You will improve our clients' data integrity and quality to allow for more reliable reports and insights within the accounting, finance, governance, and regulatory space and pursue automation in the process to create efficiencies.
+
+Your Key Responsibilities
+
+Our Data Scientists have a critical role in understanding relationships between various financial service sector datasets.
+Optimization big data and applying repeatable transformation techniques so data is ready for analytical procedures and insights.
+You will also use statistical and analytical analysis to enable critical value-added services to our audit clients, that improves audit efficiency and quality.
+You must also have a strong software engineering background and be able to write production level code that could be integrated into broader web application.
+
+Skills And Attributes For Success
+
+As we continue to build features and integrations within existing applications, our data science team is hiring talented professionals to contribute to our innovative new data platform. We are hiring experienced and hands-on python programmers who are well versed with big data analytics techniques using libraries like Spark on cloud platform.
+
+To qualify for the role you must have
+
+Bachelor's or Master's degree in in computer science, computer engineering, data analysis, statistics, financial mathematics, or another related field
+Minimum of 3+ years hands-on experience in Python, SparkSQL (Python preferred)
+Experience in data analytics libraries and tools including, but not limited to Python – Pandas, Python – Spark, Plotly, Python – Numpy, SparkSQL, Tableau, R, Alteryx, Hadoop, Microsoft Power BI, JavaScript, D3.js, etc.
+At least 2+ years of industry experience primarily working with data (for example as a data scientist, software engineer, data engineer, analyst, or other technical role)
+
+Ideally, you'll also have
+
+The ability and willingness to travel and work more than standard hours when necessary
+Strong understanding of complex financial data and strong demonstrated ability applying analytical approaches, and problem-solving skills
+Strong written and verbal communication skills
+Ability to understand business challenges and translate them into value-add analytics solutions
+Prior experience in project management and client-serving roles
+
+What We Look For
+
+You are excited to be a part of an early-stage data science team on a mission to improve how business interacts with data. You are eager to learn big data transformation techniques, machine learning and understanding various datasets from financial service industry. You can make an immediate impact doing great work exceeding client expectations. If you're looking to achieve your career ambitions and explore/train in new technologies for continued growth, there are exciting opportunities for you and the team at EY.
+
+What We Offer
+
+We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options. Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well-being.
+
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+The Exceptional EY Experience. It’s Yours To Build.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+
+EY is committed to providing reasonable accommodation to individuals with disabilities. If you are a qualified individual with a disability and either need assistance applying online or need to request an accommodation during the interview process, please call 1-800-EY-HELP3, type Option 2 (HR-related inquiries) and then type Option 1 (HR Shared Services Center), which will route you to EY’s Talent Shared Services Team or email SSC Customer Support at ssc.customersupport@ey.com.
+Benefits found in job post
+401(k)
+Medical insurance
+Dental insurance
+

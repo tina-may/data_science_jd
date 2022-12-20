@@ -1,0 +1,79 @@
+Combine two of the fastest-growing fields on the planet with a culture of performance, collaboration and opportunity and this is what you get. Leading edge technology in an industry that's improving the lives of millions. Here, innovation isn't about another gadget, it's about making health care data available wherever and whenever people need it, safely and reliably. There's no room for error. Join us and start doing your life's best work.(sm)
+
+ 
+
+Looking to make a radical impact on the way the health insurance industry uses and applies technology to make patients and providers’ lives easier? Becoming a part of Optum’s UnitedHealthcare Technology Division will give you the opportunity to just that.
+
+ 
+
+UnitedHealthcare is on a journey towards delivering a best-in-the-industry consumer experience to its patients and providers. This journey starts with the flawless execution of the operations that get benefit plans into the hands of our customers, and the support those customers receive throughout their healthcare journeys. Our team, UHC Tech BenOps, is transforming to meet the moment – to begin radically altering the way our customers engage with the healthcare system using modern tech to solve some of the most complex problems experienced along the way.
+
+ 
+
+Our team focuses on ensuring our UHC Customers are experiencing the healthcare system as they expect, from execution of sales through to price transparency, overall utilization of benefits and service experience. 
+
+ 
+
+Our team is partnering to build state of the art Conversational AI experience using latest technology, modern product development and agile practices to create personalized experience for our customers
+
+ 
+
+You’ll enjoy the flexibility to telecommute* from anywhere within the U.S. as you take on some tough challenges.
+
+ 
+
+Primary Responsibilities:        
+
+As a Senior Software Engineer, you will be accountable for implementing software solutions as one the most senior engineers on a 4-6 person scrum team
+You and your team will be part of larger Conversational AI experience initiative, primarily building reusable Conversational Skills and feedback loop driven by analytics and insights
+You will interface with Managers, Lead Software Engineers, Data Scientists and your Peers to understand priorities and technical strategy
+You will contribute to the product’s more complex components and focus on building quality software
+Code quality will be one of your core areas of focus – ensuring your team’s user stories are effectively tested, peer reviewed and well documented
+You will act as an individual contributor while providing influence over your scrum team. You will influence the system and become a key part of the processes that deliver it
+You will be contributing to team productivity by collaborating and coaching Software Engineers as needed
+You will embrace learning modern technologies and their place within our tech stack. You will work to ensure new tech is brought forward to the team to solve problems creatively
+You’ll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in
+ 
+
+You’ll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.
+
+Required Qualifications:
+
+4+ years of full stack development, from deployment ops and database technologies through to front-end frameworks
+4+ years of experience in one of the programming languages Java, Spring framework, Python, Node JS or C#
+3+ years of experience working with DevOps tools like Jenkins, GitHub, Docker & Kubernetes
+2+ years of experience with Streaming and messaging applications like Kafka, StreamSets or RabbitMQ
+Experience working with Agile, Scrum and modern engineering practices like maintaining single product backlog, enabling true CI/CD, collaborating to build self-sufficient teams
+Proven knowledge of AI-driven stacks like RASA, Live Person, NLP, NLG and/or a demonstrated interest in data science, artificial intelligence, and machine learning- Tensor flow, PyTorch
+ 
+
+Preferred Qualifications:
+
+Experience with system development/maintenance in the Public Cloud (Azure a bonus!)
+Experience building highly available applications and implementing resiliency patterns
+Experience with logging and monitoring tools like Splunk, Kibana, Elastic, Logstash, Dynatrace
+Experience with microservices, APIs and gateways
+Experience with Relational and NoSQL Data Stores
+Front end technology experience with tools like ReactJS/Angular
+Experience with monitoring and alerting tools like Dynatrace
+ 
+
+To protect the health and safety of our workforce, patients and communities we serve, UnitedHealth Group and its affiliate companies require all employees to disclose COVID-19 vaccination status prior to beginning employment. In addition, some roles and locations require full COVID-19 vaccination, including boosters, as an essential job function. UnitedHealth Group adheres to all federal, state and local COVID-19 vaccination regulations as well as all client COVID-19 vaccination requirements and will obtain the necessary information from candidates prior to employment to ensure compliance. Candidates must be able to perform all essential job functions with or without reasonable accommodation. Failure to meet the vaccination requirement may result in rescission of an employment offer or termination of employment
+
+ 
+
+Technology Careers with Optum. Information and technology have amazing power to transform the health care industry and improve people's lives. This is where it's happening. This is where you'll help solve the problems that have never been solved. We're freeing information so it can be used safely and securely wherever it's needed. We're creating the very best ideas that can most easily be put into action to help our clients improve the quality of care and lower costs for millions. This is where the best and the brightest work together to make positive change a reality. This is the place to do your life's best work.(sm)
+
+ 
+
+*All Telecommuters will be required to adhere to UnitedHealth Group’s Telecommuter Policy.
+
+ 
+
+Colorado, Connecticut or Nevada Residents Only: The salary range for Colorado residents is $82,100 to $146,900. The salary range for Connecticut/Nevada residents is $90,500 to $161,600. Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, UnitedHealth Group offers benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements). No matter where or when you begin a career with UnitedHealth Group, you’ll find a far-reaching choice of benefits and incentives. 
+
+ 
+
+ 
+
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.     

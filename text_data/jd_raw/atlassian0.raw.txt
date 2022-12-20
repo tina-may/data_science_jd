@@ -1,0 +1,74 @@
+Principal Machine Learning Data Scientist
+Atlassian can hire people in any country where we have a legal entity, assuming candidates have eligible working rights and a
+sufficient timezone overlap with their team (For this role, that will mean the Amsterdam office). As our offices re-open, Atlassians
+can choose to work remotely or return to an office, unless it’s necessary for the role to be performed in the office. Interviews and
+onboarding are conducted virtually, a part of being a distributed-first company.
+Are you a Data Science practitioner with a deep toolset who thrives on helping business partners scope business problems and deliver
+analytic solutions? Do you relish the opportunity to dive headfirst into vast, high-impact projects and make foundational contributions to
+analytic ecosystem and drive optimization across the business If so, this role is for you!
+As a Principal Data Scientist on our Customer Support Services team, you will partner closely with key business domains, focusing on
+some of the most exciting challenges Atlassian faces.
+Some examples of what you'll be doing:
+Work with a cross functional team to drive improvement and efficiency in a rapidly scaling and dynamic customer support environment,
+bringing analytic capabilities and insights to bear
+Build operationally impacting machine learning solution including automation, predictive models, segmentation, anomaly detection, and
+optimization tools
+Work with large amount of text and customer engagement data to help build scalable analytic solutions
+Work with Software Engineering teams to build ML micro-services to integrate analytic solutions into business processes
+Forecast key business outcomes using different predictive capabilities and help drive better decision making
+Drive maturity in ML adoption and usage in an operational business
+Measure the business impact of key ML and AI application on key business outcomes.
+Develop strong collaborative partnerships with business and operations leaders
+Some skills and tools you'll use are:
+DS: NLP, Classification, Anomaly Detection, Econometrics
+MLE: API Integration ,Feature Engineering, Model Lifecycle Management
+Analytics: Statistics, data distributions, summary/aggregation methods, operational metric development, ongoing OKR measurement
+Tools: Python, SQL, Tableau, Excel, etc.
+Collaboration: Confluence, Jira
+More about you
+You've been working in Machine Learning/ Data Science for 8+ years and have a BS degree in Statistics, Mathematics, Economics,
+Computer Science or other quantitative field.
+Strong technical skills including best practices for operational Machine Learning Development and Serving
+Strong track record of delivering business value through data science, an ability to articulate and measure impact, and ability to right
+size solutions.
+Familiarity with Data Engineering and Software Engineering best practices
+You have experience in building business impacting Machine Learning Models and experience using data to drive efficiency in a
+business operations
+You have a track record of successfully driving analytic initiatives, engaging with non-techncial partners, and leading projects to impact
+You have strong communication skills (non-technical) and core tech skills.
+
+To keep pace with our rapid growth you enjoy and are capable of learning new things quickly. You can take an ambiguous assignment
+and move rapidly to deliver iterative value. You use multiple tools and methods to find trends and correlations by mining data, and
+couple that with intuition and light-weight tests to prioritize how to drive forward on complicated problems.
+You are someone who actively likes to mentor / grow less experienced analysts.
+You have strong business acumen, love driving strategy, making big changes, and influencing others. You have a history of driving
+measurable impact in close collaboration with operational colleagues.
+You combine curiosity with critical thinking and good judgment, and like asking "why" to unravel a seemingly complex problem and get to
+the root cause.
+You’re a senior ‘pillar of the team’, confident in your business acuity, analytics expertise and communication / coordination skills to push
+through ambiguity and up-skill those around you.
+When you encounter a problem you come up with multiple solutions, weigh the tradeoffs and efforts, identify the best path forward, and
+exercise good judgment to drive ahead.
+More about our team
+We are a growing analytics and project delivery team located in multiple regions across the globe. We challenge each other constantly to
+improve our work and ask hard questions. We're direct, focused, and demand excellence, but there's laughter in every meeting because we
+thoroughly enjoy the work we do and the impact it has. We're constantly growing, learning, adapting, and trying new things. BBQ, tacos,
+and coffee are a few of our favorite things.
+More about our benefits
+Whether you work in an office or a distributed team, Atlassian is highly collaborative and yes, fun! To support you at work (and play) we offer
+some fantastic perks: ample time off to relax and recharge, flexible working options, five paid volunteer days a year for your favourite cause,
+an annual allowance to support your learning & growth, unique ShipIt days, a company paid trip after five years and lots more.
+More about Atlassian
+Creating software that empowers everyone from small startups to the who’s who of tech is why we’re here. We build tools like Jira,
+Confluence, Bitbucket, and Trello to help teams across the world become more nimble, creative, and aligned—collaboration is the heart of
+every product we dream of at Atlassian. From Amsterdam and Austin, to Sydney and San Francisco, we’re looking for people who want to
+write the future and who believe that we can accomplish so much more together than apart. At Atlassian, we’re committed to an
+environment where everyone has the autonomy and freedom to thrive, as well as the support of like-minded colleagues who are motivated
+by a common goal to: Unleash the potential of every team.
+Additional Information
+We believe that the unique contributions of all Atlassians is the driver of our success. To make sure that our products and culture continue
+to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity
+or expression, sexual orientation, age, or marital, veteran, or disability status.
+All your information will be kept confidential according to EEO guidelines.
+If your experience looks a little different from what we’ve identified and you think you can rock the role, we’d love to learn more about you.
+Learn more about Atlassian’s culture, interviewing flow, and hiring process by checking

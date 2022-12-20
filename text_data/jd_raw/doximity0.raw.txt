@@ -1,0 +1,47 @@
+Software Engineer, Data
+San Francisco, CA or Remote (U.S., Canada, Mexico, Argentina, or Brazil)
+Doximity is transforming the healthcare industry. Join our mission to help every physician be more productive and provide better care for their patients. As medicine's largest network in the United States, there's an elevated level of responsibility in everything we do. We don't take that responsibility lightly and are committed to building diverse teams with an inclusive culture that can make a direct impact on the healthcare system.
+
+One of Doximity's core values is stretching ourselves. Even if you don't check off all the boxes below we encourage you to apply. Doximity is full of exceptional people who bring their own unique experiences to work everyday and make us all better for it!
+
+
+This role can be filled in our San Francisco headquarters OR remotely in either the US, Mexico, Brazil or Canada.
+
+About you
+
+Experienced in Python and SQL. You have developed maintainable data pipelines with these languages.
+Foremost an engineer. You strive for high code quality, create automated testing, apply design patterns, and other engineering best practices.
+See a project from end-to-end. You are involved from idea generation, planning, execution through delivering.
+Here's How You Will Make an Impact
+
+Improve an intelligent content prioritization system through architectural and code changes.
+Evolve an AI-driven relevance prediction system that aims to improve engagement rates.
+Collaborate with product managers, data analysts, and machine learning engineers to develop data pipelines and ETL tasks in order to facilitate the extraction of insights.
+Establish data architecture processes and practices that can be scheduled, automated, replicated and serve as standards for other teams to leverage.
+About Us
+
+Explore our tech stack
+We have over 500 private repositories in Github containing our pipelines, our own internal multi-functional tools, and open-source projects
+We have worked as a distributed team for a long time; we're currently about 65% distributed
+Find out more information on the Doximity engineering blog
+Our company core values
+Our recruiting process
+Our product development cycle
+Our on-boarding & mentorship process
+Learn more about people at Doximity
+Benefits & Perks
+
+Doximity is proud to offer industry-leading benefits. Some of our offerings include: 
+
+Medical, dental, vision offerings for you and your family
+401k with matching program
+Employee stock purchase plan
+Family planning support, Childcare FSA, and parental leave
+Life, AD&D, and Disability
+Generous time off, holidays and paid company trips
+Wellness benefits…plus many more!
+More About Doximity…
+
+For the past decade, it’s been our mission to help every physician be more productive so they can provide better care for their patients. We believe that when doctors are connected, the healthcare system works better and patients benefit. Doximity enables our verified clinician members to collaborate with colleagues, stay up-to-date with the latest medical news and research, manage their careers, and conduct virtual patient visits. Today, Doximity is the leading digital platform for U.S. medical professionals, with over 80% of physicians, 50% of all nurse practitioners and physician assistants, and 90% of graduating medical students as members. 
+
+Joining Doximity means being part of an incredibly talented and humble team passionate about improving inefficiencies in our $4.3 trillion U.S. healthcare system. We are a team of doers who solve problems everyday by treating obstacles like an adventure, and we love creating technology that has a real, meaningful impact on people’s lives. Doxers are committed to working towards a more equitable world both within and beyond our office walls. This starts by fostering an inclusive and diverse work environment where differences are valued and all employees are encouraged to bring their full, authentic selves to work daily. To learn more about our team, culture, and users, check out our careers page, company blog, and engineering blog. We’re growing fast, and there’s plenty of opportunity for you to make an impact—join us! For more information, visit Doximity.com.

@@ -1,0 +1,43 @@
+2054579-3
+
+Job Description
+
+The Role
+
+The AI COE is seeking a Principal Data Scientist (Deep Learning / NLP) with experience in Virtual Assistants or chatbots, Natural Language Processing/text analytics, machine learning, various deep learning related technologies, predictive and prescriptive analytics!
+
+The Expertise And Skills You Bring
+
+PhD in Computer Science with extensive research papers on Natural Language Processing (NLP) with 5+ years of experience, OR Master’s Degree in Computer Science, Statistics, Data Science or similar technical subject area with at least 7-10 years significant professional experience
+Deep understanding of Machine Learning & Deep Learning algorithms
+Knowledge of most of the following quantitative fields: Natural Language Processing, Information Retrieval, Machine Comprehension, Question Answering/Conversational AI, Reinforcement Learning, Knowledge Graph, Causal Inference, and Design of Experiment
+Statistical and data science programming skills, such as Python and R
+Experience in Big Data, search, NLP, and chatbot technologies such as Elasticsearch and Solr
+Knowledge of Deep Learning and related tools such as TensorFlow, Keras, MXNET, or H2O is preferred
+Experience deploying NLP solutions in a commercial environment
+
+The Value You Deliver
+
+Manage and guide data science and data engineering elements of AI projects
+Set a strategic direction for data identification, collection and qualification activities
+Lead data analysis for multiple projects with diverse scope and sophisticated business and technical challenges across several business units and functions
+Implement new technologies in a production environment with product, IT, and data engineering teams
+Present reports and findings to senior level technical and non-technical audiences
+
+Certifications
+
+Company Overview
+
+Fidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money.
+
+Join Us
+
+At Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. Honored with a Glassdoor Employees’ Choice Award, we have been recognized by our employees as a Best Place to Work in 2022. And you don’t need a finance background to succeed at Fidelity—we offer a range of opportunities for learning so you can build the career you’ve always imagined.
+
+At Fidelity, our goal is for most people to work flexibly in a way that balances both personal and business needs with time onsite and offsite through what we’re calling "Dynamic Working."
+
+We invite you to Find Your Fidelity at fidelitycareers.com.
+
+Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.
+
+Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 3.
